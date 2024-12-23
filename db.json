@@ -1,0 +1,19 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Nike Air Max 97",
+      "body": "Giày thể thao Nike Air Max 97 với thiết kế hiện đại và êm ái, phù hợp cho cả ngày dài.",
+      "base64Image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/d9e4de35-c03b-489b-855d-e26e5f9ad7c4/air-max-97-shoe-V1lPbj.png"
+    },
+    {
+      "id": 2,
+      "title": "Nike React Infinity",
+      "body": "Nike React Infinity Run Flyknit 3 mang lại sự thoải mái tối ưu với công nghệ đệm tiên tiến.",
+      "base64Image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/d193aa4b-f5a7-4e94-84f5-f4eaabecadf0/react-infinity-run-flyknit-3-mens-road-running-shoes-6D22D9.png"
+    }
+  ],
+  "profile": {
+    "name": "Nike Official"
+  }
+}
